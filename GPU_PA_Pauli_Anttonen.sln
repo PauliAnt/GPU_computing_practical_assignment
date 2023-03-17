@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPU_PA_Pauli_Anttonen", "GPU_PA_Pauli_Anttonen.vcxproj", "{DD7CC14E-0D4D-453A-A09B-9999E93586F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7CC14E-0D4D-453A-A09B-9999E93586F5}.Debug|x64.ActiveCfg = Debug|x64
+		{DD7CC14E-0D4D-453A-A09B-9999E93586F5}.Debug|x64.Build.0 = Debug|x64
+		{DD7CC14E-0D4D-453A-A09B-9999E93586F5}.Release|x64.ActiveCfg = Release|x64
+		{DD7CC14E-0D4D-453A-A09B-9999E93586F5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53FD0231-1B2C-4A28-B5F9-F7624310B7AF}
+	EndGlobalSection
+EndGlobal
